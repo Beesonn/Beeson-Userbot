@@ -1,4 +1,4 @@
-from tanjiro import app
+from beeson import app
 from pyrogram import filters
 import traceback
 import io
